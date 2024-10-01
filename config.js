@@ -7,7 +7,7 @@ var config = {
         "Trần Bình Minh", // 同上...
         "Người mà anh thương",
         "Sinh nhật tròn 25 tuổi của em",
-        "Chúc mừng sinh nhật người yêu dấu của em!",
+        "Chúc mừng sinh nhật người yêu dấu của anh!",
         "Mong rằng em sẽ có một ngày thật tuyệt vời và tràn đầy niềm vui",
         "Chúc anh có em và chúc chúng mình có được nhau",
         "Anh luôn mong mọi điều tốt đẹp nhất sẽ đến với em",
